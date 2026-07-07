@@ -8,19 +8,21 @@
 ### Required
 ### andidate Profile
 ```text
-Candidate Profile
-    Personal Information
-        Name
-        Email
-        Phone
-        Location
-    Summary
-    Education
-    Experience
-    Skills
-    Attachments
+CandidateProfile
+
+├── Personal Information
+│   ├── Name
+│   ├── Email
+│   ├── Phone
+│   └── Location
+├── Summary
+├── Education
+├── Experience
+├── Skills
+└── Attachments
 ```
 ## Optional
-        Job Information
-        Preferences
-        Supporting Materials
+- Job Information
+- Preferences
+- Supporting Materials
+
