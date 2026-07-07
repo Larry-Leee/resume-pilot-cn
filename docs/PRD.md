@@ -13,6 +13,7 @@
                     Name
                     Email
                     Phone
+                    Location
                 Summary
                 Education
                 Experience
