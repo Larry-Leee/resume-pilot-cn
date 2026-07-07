@@ -5,5 +5,8 @@
  * @FilePath: /resume-pilot-cn/README.md
 -->
 # resume-pilot-cn
-#check
+An AI-powered resume optimization skill designed for Chinese job seekers.
+Help job seekers tailor their resumes to Chinese job descriptions using AI.
+
+
 
