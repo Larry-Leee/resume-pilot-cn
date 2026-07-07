@@ -6,7 +6,19 @@
 -->
 ##Input
     ###Required
-        Candidate Profile
+        #Candidate Profile
+            ```text
+            Candidate Profile
+                Personal Information
+                    Name
+                    Email
+                    Phone
+                Summary
+                Education
+                Experience
+                Skills
+                Attachments
+            ```
     ##Optional
         Job Information
         Preferences
